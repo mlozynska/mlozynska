@@ -1,14 +1,14 @@
-<div align="center">
+
   
 ### Hi there 👋
-  
-</div>
+“Motivated entry-level software engineer with MBA degree, hands-on managerial experience in marketing and business education, a mother of three, in pursuit of the most important career and life-style change.”
+
 
 - 🔭 I’m currently working on ecommerce website for my friend.
 - 🌱 I’m currently improving my JavaScript skills with CodeWars and learning Python.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 💬 Ask me about cakes and I will tell you all about it!
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-mlozynska79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ineta.bliu@gmail.com)](mailto:ineta.bliu@gmail.com) or  [![Linkedin Badge](https://img.shields.io/badge/-mlozynska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mlozynska/)](https://www.linkedin.com/in/mlozynska/)
 - 😄 Pronouns: She/Her/Hers
 <!-- - ⚡ Fun fact: ... -->
@@ -22,7 +22,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/heroku/heroku.png"></code>
 
 
 
