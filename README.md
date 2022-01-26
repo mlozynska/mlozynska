@@ -9,7 +9,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-[blog]: mlozynska79@gmail.com
+[blog]: mailto:mlozynska79@gmail.com
 [<img align="left" alt="medium"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][blog]
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mlozynska&theme=nightowl&show_icons=true&count_private=true)
