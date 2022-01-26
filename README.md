@@ -5,13 +5,14 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:  
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-mlozynska79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ineta.bliu@gmail.com)](mailto:ineta.bliu@gmail.com) or  [![Linkedin Badge](https://img.shields.io/badge/-mlozynska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mlozynska/)](https://www.linkedin.com/in/mlozynska/)
+
 <!-- - ⚡ Fun fact: ... -->
 
-[blogMail]: mailto:mlozynska79@gmail.com
+<!-- [blogMail]: mailto:mlozynska79@gmail.com
 [<img align="left" alt="medium"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][blogMail]
 <!-- [blog]: https://eresh-zealous.medium.com/ -->
-[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][https://eresh-zealous.medium.com/]
+<!-- [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][https://eresh-zealous.medium.com/] --> -->
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mlozynska&theme=nightowl&show_icons=true&count_private=true)
