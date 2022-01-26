@@ -6,7 +6,7 @@ I am motivated entry-level software engineer with MBA degree, hands-on manageria
 
 - 🔭 I’m currently working on ecommerce website for my friend.
 - 🌱 I’m currently improving my JavaScript skills with CodeWars and learning Python.
-- 💬 Ask me about cakes and I will tell you all about it!
+- 💬 Ask me about cakes and I will tell you everything about them!
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-mlozynska79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ineta.bliu@gmail.com)](mailto:ineta.bliu@gmail.com) or  [![Linkedin Badge](https://img.shields.io/badge/-mlozynska-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mlozynska/)](https://www.linkedin.com/in/mlozynska/)
 - 😄 Pronouns: She/Her/Hers
 <!-- - ⚡ Fun fact: ... -->
