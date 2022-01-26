@@ -10,7 +10,7 @@
 
 [blogMail]: mailto:mlozynska79@gmail.com
 [<img align="left" alt="medium"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][blogMail]
-[blog]: https://www.linkedin.com/in/mlozynska/
+[blog]: https://eresh-zealous.medium.com/
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][blog]
 
 
