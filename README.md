@@ -10,7 +10,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 [blog]: https://eresh-zealous.medium.com/
-[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />][blog]
+[<img align="left" alt="medium"  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />][blog]
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mlozynska&theme=nightowl&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=nightowl&hide=PHP,Shell,TeX,jupyter%20notebook,vim%20script)
